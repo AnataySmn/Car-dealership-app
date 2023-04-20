@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Greatest</string>
+    <string name="btn_create"/>
+    <string name="text_reload"/>
+    <string name="text_clear"/>
+    <string name="splash_text"/>
+</resources>
